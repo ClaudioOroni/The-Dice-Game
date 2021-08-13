@@ -36,3 +36,15 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+
+@media (max-width:980px) {
+h1 {
+
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #4ECCA3;
+}
+
+}
